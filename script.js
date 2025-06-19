@@ -30,5 +30,5 @@ window.addEventListener('scroll', () => {
 document.addEventListener('DOMContentLoaded', function() {
   const resumeLink = document.getElementById('resume-link');
   // Set your resume file path here (e.g., 'Harishwaran_Resume.pdf')
-  resumeLink.href = 'Harishwaran_Resume.pdf';
+  resumeLink.href = 'Harishwaran.pdf';
 }); 
